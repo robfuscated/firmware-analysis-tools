@@ -1,0 +1,11 @@
+tar xvjf $1;
+tar xvzf $1;
+bunzip2 $1;
+unrar x $1;
+gunzip $1;
+tar xvf $1;
+tar xvjf $1;
+tar xvzf $1;
+unzip $1;
+uncompress $1;
+7z x $1;
